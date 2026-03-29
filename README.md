@@ -41,8 +41,8 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=januridp.januridp)
 
-[website]: https://januridp.com/
+[website]: https://januridp.web.id/
 [twitter]: https://twitter.com/januridp
-[youtube]: https://www.youtube.com/user/TheGeekStyle?sub_confirmation=1
+[youtube]: https://www.youtube.com/channel/UCKlFMWdYE9CILIoIjOEeu8w?sub_confirmation=1
 [instagram]: https://www.instagram.com/januridp/
 [linkedin]: https://www.linkedin.com/in/januridp/
